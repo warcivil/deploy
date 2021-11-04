@@ -1,0 +1,5 @@
+.env
+.env.prod.db
+.env.prod
+.env.dev.db
+.env.dev
